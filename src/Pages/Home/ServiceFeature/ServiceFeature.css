@@ -1,0 +1,12 @@
+.ServiceFeature {
+  background-color: #f7f7f7;
+}
+
+.ServiceFeature .card {
+  border: 0 !important;
+  background-color: #f5f5f5;
+}
+.ServiceFeature svg {
+  font-size: 50px;
+  color: #456e66;
+}

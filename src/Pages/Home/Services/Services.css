@@ -1,0 +1,22 @@
+.service {
+  position: relative;
+}
+.service-icon {
+  position: absolute;
+  top: -50px;
+  left: 38%;
+  background: #ededed;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  font-size: 30px;
+  color: #456e66 !important;
+}
+.service-icon svg {
+  margin: 30px 0;
+}
+.service-btn {
+  position: absolute;
+  bottom: -20px;
+  left: 30%;
+}

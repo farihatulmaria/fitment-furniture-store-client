@@ -1,0 +1,32 @@
+* {
+  transition: all 0.5s;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+nav button,
+main button {
+  background: #456e66 !important;
+  font-size: 20px !important;
+  padding: 10px 34px !important;
+  border: 0 !important;
+}
+.home .product-img {
+  width: 200px !important;
+}
+.product-img {
+  width: 300px !important;
+}
+.border-light {
+  border-color: #00000014 !important;
+}

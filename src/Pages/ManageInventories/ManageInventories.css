@@ -1,0 +1,8 @@
+.managing-table th {
+  background: #f5f6fa !important;
+  color: #333;
+  padding: 20px;
+}
+.managing-table td {
+  padding: 20px 30px;
+}
